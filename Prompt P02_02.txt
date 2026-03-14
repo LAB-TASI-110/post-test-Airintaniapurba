@@ -1,0 +1,6 @@
+ini dari gemini
+1. buatlah kamu seolah olah programmer bahasa c yang lagi menyelesaikan Disini ada data stok barang yang disimpan dalam sebuah rak gudang yang tersusun rapi, anda perlu memperhatikan pola penyimpanan pada gambar yang telah saya berikan untuk memahami bagaimana kelompok barang dipisahkan akan ada  jumlah total data yang ingin pengguna masukkan, selanjutnya deret stok, dan yang terakhir kode kategori barang, kode katogori barang ini berdasarkan pola yang ada pada gambar. Disini pengguna hanya memasukkan kode kategori barang dan program mampu menentukan total stock hanya untuk kode kategori barang yang diminta. Buatlah kamu seolah olah programmer bahasa c yang sedang menyelesaikan tugas dengan berpikir secara kritis, disini saya ingin run di windows menggunakan visual studio code, bahasa yang digunakan bahasa c18, stdio.h, disini tidak menggunakan simbol atau tanda khusus, jangan menginput nilai yang tidak sesuai dengan tipe data, tidak ada library khusus, buat dalam 1 file saja, buat langkah langkahnya, buatlah kamu seolah olah mahasiswa semester 2 yang sedang mengerjakan tugas prosedural pemrograman, jangan ada error pada saat di run,
+
+2. disini saya blm mempelajari void
+3. buat programnya itu pengguna hanya menginput kode kategori barang dan sistem akan memunculkan total stock barang 
+4. 

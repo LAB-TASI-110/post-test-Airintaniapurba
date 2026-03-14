@@ -1,0 +1,18 @@
+1. butet melihat papan besar berisi daftar ongkos kirim per kilogram ke beberapa kota tujuan itulah gambar yang pertama, tidak jauh dari papan daftar ongkir, ada sebuah poster promo menarik yang di tempel di dinding itulah gambar yang ke 2, saat petugas menimbang paket mere, ternyata terdapat sedikit perbedaaan ukuran dus yang mereka gunakan , konteks mereka disini itu butet dan ucok. Disini petugas hanya perlu memasukkan kode kota tujuan serta berat paket milik butet, dan sistem akan menghitung seluruh biaya pengiriman termasuk berat paket milik ucok itulah yang gambar terakhir, sistem pengiriman mereka bekerja secara otomatis contoh input an yang bisa saya berikan ```bash
+MDN
+5
+JKT
+3
+BLG
+4
+END
+dan contoh output yang bisa saya berikan Struk Pembayaran yang terdiri dari:
+Kota tujuan,
+Berat paket Butet,
+Berat paket Ucok,
+Total berat,
+Total ongkos kirim,
+Informasi promo yang diperoleh, buatlah kamu seolah olah programmer bahasa c yang lagi menyelesaikan tugas dengan berpikir secara kritis, disini saya ingin run di windows menggunakan visual studio code, bahasa yang digunakan bahasa c18, stdio.h, disini tidak menggunakan simbol atau tanda khusus, jangan menginput nilai yang tidak sesuai dengan tipe data, tidak ada library khusus, buat dalam 1 file saja, buat langkah langkahnya, buatlah kamu seolah olah mahasiswa semester 2 yang sedang mengerjakan tugas prosedural pemrograman, jangan ada error pada saat di run,
+
+2. pada program ini saya minta jangan langsung mengeluarkan output sebelum saya ketik end
+3.jangan beri program yang error
